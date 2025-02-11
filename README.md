@@ -30,37 +30,27 @@ The Airline Delay Analysis project is designed to support operational efficiency
 ### 1.2. Key Business Questions
 #### 1.2.1. Delay Performance Analysis
 - What are the total delay durations and frequencies across airlines, airports, and regions?
-
 - Which airlines or airports have the highest and lowest delay rates?
-
 - How do delay durations vary by time of day, day of the week, or season?
 
 #### 1.2.2. Root Cause Analysis
 - What are the most common reasons for delays (e.g., weather, technical issues, air traffic)?
-
 - Which factors contribute the most to delay durations?
-
 - Are there specific airports or regions where certain delay reasons are more prevalent?
 
 #### 1.2.3. Customer Impact and Experience
 - How do delays impact passenger satisfaction and loyalty?
-
 - Which airlines or airports have the best on-time performance, and how does this correlate with customer reviews?
-
 - What are the most frequent complaints or issues reported by passengers during delays?
 
 #### 1.2.4. Operational Efficiency
 - How do delays impact airline operational costs (e.g., fuel, crew, maintenance)?
-
 - Are there specific routes or flight schedules that are more prone to delays?
-
 - How can airlines optimize flight schedules to minimize delays?
 
 #### 1.2.5. Geospatial and Regional Analysis
 - Which regions or airports experience the highest frequency and duration of delays?
-
 - How do regional factors (e.g., weather, air traffic density) influence delays?
-
 - Are there specific airports that act as bottlenecks for delays?
 
 ## (2/7) Database Description
