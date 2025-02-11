@@ -89,7 +89,7 @@ Using Power Query Editor I was able to make some transformation on data like:
 ![DIM_Time](https://github.com/user-attachments/assets/b19f1e0e-92ed-435d-8ea6-51c84ed5b319)
 
 
-- Example of the Created Measures:
+- Example of some of the Created Measures:
   
   - % On-Time Performance Measure
     ![% On-Time Performance Measure](https://github.com/user-attachments/assets/959d9af9-16c8-4d73-804d-91bb835966cd)
