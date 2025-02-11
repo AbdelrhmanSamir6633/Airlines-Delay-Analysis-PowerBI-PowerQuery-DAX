@@ -3,7 +3,6 @@
 ## Project Description
 The primary goal of this project is to analyze the Airlines Delay Dataset, which encompasses comprehensive data on airlines, airports, and regions worldwide, along with delay durations and reasons. By leveraging data analysis and visualization techniques, the project aims to uncover hidden insights, identify patterns, and understand the factors contributing to airline delays. 
 The findings will help stakeholders, including airlines, airports, and passengers, make informed decisions to improve operational efficiency and customer satisfaction.
-change
 
 ## Contents 
 
