@@ -16,7 +16,7 @@ The findings will help stakeholders, including airlines, airports, and passenger
 
 <a href="">**5) Data Model.**</a>
 
-<a href="">**6) Key Visualizations Using PowerBI.**</a>
+<a href="">**6) Dashboard & Key Visualizations Using PowerBI.**</a>
 
 <a href="">**7) Data Source & Project Files.**</a>
 _____________________________________________________________________________________
@@ -166,6 +166,81 @@ This model is designed for Power BI analytics, enabling users to:
 - Analyze delay trends by time, airport, and carrier.
 - Build KPIs and dashboards for flight performance monitoring.
 - Identify patterns and root causes of delays for optimization.
+
+## (6/7) Dashboard & Key Visualizations Using PowerBI
+
+Link of Interactive Dashboard on Power BI Services: 
+
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiYThhMjVmMzYtNGU1OS00MjUwLWEyZjQtMTBhOWM1MzVjYTU4IiwidCI6ImFiZmYzMTIyLTQ0NWMtNDFjMy04NmNiLTZiZWQxOTI0YzEyZCJ9">Power BI Interactive Dashboards </a>
+
+
+6.1. **Home Page** – This page introduces the dashboard, preparing for takeoff and navigating through the skies of data.
+
+![Airlines Delay Dashboard_page-0001](https://github.com/user-attachments/assets/deaccd0d-a6b2-487e-96d0-c4536a3e48c4)
+
+
+6.2. **Flights Analysis** – This report highlights total flights and their distribution across different time frames. Peak hours and regions with the most flights are displayed, offering insights into traffic trends and airline operations.
+It emphasizes that:
+  - No. of On-Time Flights is around **373K**.
+  - Peak Hour of Flights (Arrival & Departure) is **8:00 PM**.
+  - Peak Month according to Total No. of flights is **December**.
+
+![Airlines Delay Dashboard_page-0002](https://github.com/user-attachments/assets/90555e63-6d77-4a8f-b715-250a26b8d37c)
+
+
+
+6.3. **Delay Overview** – A comprehensive view of delay performance, showing average arrival and departure delays, the most affected airports, and categories of delay severity. 
+It emphasizes that:
+  - On-time performance is around **19.36%**.
+  - Delay performance is around **73.73%**.
+  - The highest Average Arrival Delay is in **December** (around **50** Minutes).
+
+![Airlines Delay Dashboard_page-0003](https://github.com/user-attachments/assets/7284322c-9e58-499c-be94-2422a3a6f8fa)
+
+
+
+6.4. **Delay Reasons** – Breaks down delay causes into categories such as airline, aircraft, weather, security, and National Airspace System (NAS) delays. 
+It emphasizes that:
+  - **Aircraft-related issues** contribute the most (**39.97%**) with average delay of about **25.3** minutes.
+  - Followed by **Airline Delays** (**30.3%**) with average delay of about **19.18** minutes.
+
+![Airlines Delay Dashboard_page-0004](https://github.com/user-attachments/assets/dca54465-4f60-494f-bb22-8b651fee3493)
+
+
+
+ 6.5. **Airline Performance** – Evaluates airline punctuality, showing the top performers in on-time arrivals and those with the highest delays. 
+ It emphasizes that:  
+   - Average Airline Delay is about **19.18** minutes (**30.3%** of ALL other Delay Reasons).
+   - Total Number of Airlines is **24** Airline (20 Active, 4 Inactive), with **5367** Planes.
+   - *Mesa Airlines* leads in delays with average arrival delay around **55** minutes.
+   - *Hawaiian Airlines* ranks highest in on-time performance by about **30.51%**.
+   - *American Eagle* has the highest Number of Cancelled Flights (about **104** Cancelled Flights).
+   - *Southwest Airlines* has the highest Number of Diverted Flights (about **1386** Diverted Flights).
+
+![Airlines Delay Dashboard_page-0005](https://github.com/user-attachments/assets/e72b7841-bb4e-45c4-aa97-f283a3477319)
+
+
+6.6. **Summary Report** – A consolidated view of all key findings, summarizing delay statistics, airline performance, and delay reasons. 
+It highlights trends in airline delays, cancellation rates, and peak delay periods.
+
+![Airlines Delay Dashboard_page-0006](https://github.com/user-attachments/assets/6432a0b1-1abe-4ae6-a258-8e93e9838a85)
+
+
+6.7. **Delay Reasons Tooltip** – Breaks down delay causes into categories, each in a single card, as shown below:
+
+![Delay Reasons Tooltip](https://github.com/user-attachments/assets/930093b6-1779-4d01-8b1f-aaec4f928047)
+
+
+6.8. **Airport Drill Through** – More details about Airports and their performance
+
+![Drill Through_page-0001](https://github.com/user-attachments/assets/88bedeca-3ea9-4bd7-8e2a-ee03eb28af18)
+
+
+
+
+
+
+
 
 
 
