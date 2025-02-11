@@ -6,21 +6,21 @@ The findings will help stakeholders, including airlines, airports, and passenger
 
 ## Contents 
 
-<a href="">**1) Business Case.**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX?tab=readme-ov-file#17-business-case">**1) Business Case.**</a>
 
-<a href="">**2) Database Description.**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX?tab=readme-ov-file#27-database-description">**2) Database Description.**</a>
 
-<a href="">**3) Tools and Technologies Used.**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX?tab=readme-ov-file#37-tools-and-technologies-used">**3) Tools and Technologies Used.**</a>
 
-<a href="">**4) Data Cleaning and Transformation.**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX?tab=readme-ov-file#47-data-cleaning-and-transformation">**4) Data Cleaning and Transformation.**</a>
 
-<a href="">**5) Data Model.**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX?tab=readme-ov-file#57-data-model">**5) Data Model.**</a>
 
-<a href="">**6) Dashboard & Key Visualizations Using PowerBI.**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX?tab=readme-ov-file#67-dashboard--key-visualizations-using-powerbi">**6) Dashboard & Key Visualizations Using PowerBI.**</a>
 
-<a href="">**7) Data Source & Project Files.**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX?tab=readme-ov-file#77-data-source--project-files">**7) Data Source & Project Files.**</a>
 _____________________________________________________________________________________
-<a href="">**Work Environment & Contributors**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX?tab=readme-ov-file#work-environment--contributors">**Work Environment & Contributors**</a>
 
 ## (1/7) Business Case
 
@@ -231,7 +231,7 @@ ________________________________________________________________________________
 ### 7.1. Data Source 
 
 7.1.1. Download Fact Table " DelayedFlights " from kaggle website:
-- <a href="https://www.kaggle.com/datasets/giovamata/airlinedelaycauses">Download Dataset Now</a>
+- <a href="https://www.kaggle.com/datasets/giovamata/airlinedelaycauses">Download DelayedFlights Table Now</a>
 
 7.1.2. Download Dimension Tables "carrier", "airport-codes_csv" from Data Source Folder in this repo:
 - <a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX/tree/main/Data%20Source">Data Source Folder</a>
@@ -249,7 +249,7 @@ ________________________________________________________________________________
 
 ### Jira Work Environment:
 
-- <a href="">Link of Jira Work Environment</a>
+- <a href="https://abdelrahmanshear.atlassian.net/jira/software/projects/TASKK/boards/4">Link of Jira Work Environment</a>
 
 This project was collaboratively managed using Jira, ensuring efficient task tracking, sprint planning, and progress monitoring. Jira facilitated clear communication and assignment of responsibilities among the team members, allowing seamless coordination and timely completion of deliverables. The development team consisted of:
 
