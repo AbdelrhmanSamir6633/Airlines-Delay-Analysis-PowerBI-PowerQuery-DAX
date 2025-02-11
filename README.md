@@ -52,7 +52,7 @@ The Airline Delay Analysis project is designed to support operational efficiency
 - Which regions or airports experience the highest frequency and duration of delays?
 - How do regional factors (e.g., weather, air traffic density) influence delays?
 - Are there specific airports that act as bottlenecks for delays?
-
+_____________________________________________________________________________________
 ## (2/7) Database Description
 
 The database for the Airline Delay Analysis consists of three main tables, each sourced from a corresponding CSV file:
@@ -62,7 +62,7 @@ The database for the Airline Delay Analysis consists of three main tables, each 
 - (B) Carrier – This table stores airline-specific data, including carrier codes and airline names. It acts as a lookup table to provide contextual information about airlines in the flight data.
 
 - (C) Airport Codes – This table contains information about airports, including airport codes, names, and locations. It helps map airport identifiers to their respective geographic details.
-
+_____________________________________________________________________________________
 ## (3/7) Tools and Technologies Used
 
 - Power BI – Data visualization and dashboard creation.
@@ -70,7 +70,7 @@ The database for the Airline Delay Analysis consists of three main tables, each 
 - Power Query – For data cleaning and preprocessing.
 - GitHub – For version control and project hosting.
 - Jira – for ensuring efficient task tracking.
-
+_____________________________________________________________________________________
 ## (4/7) Data Cleaning and Transformation
 
 4.1. Power Query Editor:
@@ -103,7 +103,7 @@ Using Power Query Editor I was able to make some transformation on data like:
   - Total Arrival Delay Measure
     ![Total Arrival Delay Measure](https://github.com/user-attachments/assets/c9837c69-abc1-4788-bc37-1abc664ece32)
 
-  
+_____________________________________________________________________________________
 ## (5/7) Data Model
 
 ### 5.1. Overview
@@ -157,6 +157,7 @@ This model is designed for Power BI analytics, enabling users to:
 - Build KPIs and dashboards for flight performance monitoring.
 - Identify patterns and root causes of delays for optimization.
 
+_____________________________________________________________________________________
 ## (6/7) Dashboard & Key Visualizations Using PowerBI
 
 Link of Interactive Dashboard on Power BI Services: 
@@ -225,11 +226,38 @@ It highlights trends in airline delays, cancellation rates, and peak delay perio
 
 ![Drill Through_page-0001](https://github.com/user-attachments/assets/88bedeca-3ea9-4bd7-8e2a-ee03eb28af18)
 
+_____________________________________________________________________________________
+## (7/7) Data Source & Project Files
+### 7.1. Data Source 
 
+7.1.1. Download Fact Table " DelayedFlights " from kaggle website:
+- <a href="https://www.kaggle.com/datasets/giovamata/airlinedelaycauses">Download Dataset Now</a>
 
+7.1.2. Download Dimension Tables "carrier", "airport-codes_csv" from Data Source Folder in this repo:
+- <a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX/tree/main/Data%20Source">Data Source Folder</a>
 
+### 7.2. Project Files
 
+7.2.1. Images & PDFs of each Report of the Dashboard
+- <a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX/tree/main/Images%20of%20Dashboard">Images of Dashboard</a>
 
+7.2.2. Power BI Desktop File
+- <a href="https://github.com/AbdelrhmanSamir6633/Airlines-Delay-Analysis-PowerBI-PowerQuery-DAX/blob/main/Airlines%20Delay%20Dashboard.pbix">Power BI Desktop File</a>
+_____________________________________________________________________________________
+
+## Work Environment & Contributors
+
+### Jira Work Environment:
+
+- <a href="">Link of Jira Work Environment</a>
+
+This project was collaboratively managed using Jira, ensuring efficient task tracking, sprint planning, and progress monitoring. Jira facilitated clear communication and assignment of responsibilities among the team members, allowing seamless coordination and timely completion of deliverables. The development team consisted of:
+
+### Contributors:
+
+1. <a href="https://github.com/AbdelrhmanSamir6633">Abdelrhman Samir Ebrahim Hassan</a>
+2. <a href="https://github.com/roaabadawy">Roa'a Badawy</a>
+3. <a href="">Ola Sobhy</a>
 
 
 
