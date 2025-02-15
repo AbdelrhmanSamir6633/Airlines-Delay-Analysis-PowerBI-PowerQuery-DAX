@@ -257,7 +257,7 @@ This project was collaboratively managed using Jira, ensuring efficient task tra
 
 1. <a href="https://github.com/AbdelrhmanSamir6633">Abdelrhman Samir Ebrahim Hassan</a>
 2. <a href="https://github.com/roaabadawy">Roa'a Badawy</a>
-3. <a href="">Ola Sobhy</a>
+3. <a href="https://github.com/olasobhy">Ola Sobhy</a>
 
 
 
